@@ -1,0 +1,40 @@
+
+ .linha li{
+  background-color: #D3D3D3;
+    display: inline-block;
+    font-size: 30px;
+    page-break-after: 40px;
+    border-top-left-radius: 40px 40px;
+    border-top-right-radius: 40px 40px;
+    border: 50px;
+    padding: 25px;
+    margin-left: 180px;
+    margin-right: -145px;
+    width:250px;
+    height: 40px;
+    
+}
+.imagem{
+  width:160px;
+  height:140px;
+  margin-left:148px;
+  margin-right: 3px;
+  display: inline-block;
+}
+
+figure{
+  float: right
+}
+
+figcaption{
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  padding: 15px;
+}
+ footer{
+  text-align: right;
+  padding: 1px;
+  background-color:#000000;
+  color: white;
+}
